@@ -1,0 +1,25 @@
+ul li{
+    position: sticky;
+    top: 0px;
+}
+span{
+    display: block;
+    text-align: center;
+}
+.row{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.sp{
+    display: flex;
+}
+.a{
+    position: absolute;
+    right: 80px;
+    margin-left: 1px;
+}
+.b{
+    position:absolute;
+    right: 20px;
+}
